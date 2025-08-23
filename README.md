@@ -22,15 +22,13 @@ PDF电子版可以在线查看，也可以直接下载，欢迎下载传播。
 
 第二步，打开下面这个Github的镜像加速网站，粘贴刚刚复制的网址到窗口，即可正常下载：
 
-https://xuc.xi-xu.me/
+https://ghfast.top/
 
 &nbsp;
 
 &nbsp;
 
 如果上面的镜像网站失效，则需要使用其它的Github的镜像网站，比如以下这些：
-
-https://ghfast.top/
 
 https://ghproxy.link
 
